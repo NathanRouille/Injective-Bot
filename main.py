@@ -4,8 +4,8 @@ import requests
 
 from pyinjective.async_client import AsyncClient
 from pyinjective.core.network import Network
-from exec_buy_modif import buy
-from exec_sell_modif import sell
+from exec_buy import buy
+from exec_sell import sell
 
 from aiologger import Logger
 from aiologger.handlers.files import AsyncFileHandler
