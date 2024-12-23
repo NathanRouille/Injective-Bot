@@ -1,4 +1,4 @@
-# On-Chain Trading Bot on Injective Blockchain
+# Injective On-Chain Trading Bot
 
 ## Overview
 
