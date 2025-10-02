@@ -1,4 +1,4 @@
-# Injective On-Chain Trading Bot
+# Injective On-Chain Trading Bot 
 
 ## Overview
 
